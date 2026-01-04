@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>Switch2 Bridge</string>
+	<key>CFBundleExecutable</key>
+	<string>Switch2 Bridge</string>
+	<key>CFBundleIconFile</key>
+	<string>PythonApplet.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.aureliendesert.switch2bridge</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Switch2 Bridge</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>LSHasLocalizedDisplayName</key>
+	<false/>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAccessibilityUsageDescription</key>
+	<string>Switch2 Bridge needs accessibility access to simulate keyboard input for games.</string>
+	<key>NSAppleScriptEnabled</key>
+	<false/>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Switch2 Bridge needs Bluetooth to connect to your controller.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Switch2 Bridge needs Bluetooth to connect to your controller.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright not specified</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>PyMainFileNames</key>
+	<array>
+		<string>__boot__</string>
+	</array>
+	<key>PyOptions</key>
+	<dict>
+		<key>alias</key>
+		<false/>
+		<key>argv_emulation</key>
+		<false/>
+		<key>emulate_shell_environment</key>
+		<false/>
+		<key>no_chdir</key>
+		<false/>
+		<key>prefer_ppc</key>
+		<false/>
+		<key>site_packages</key>
+		<false/>
+		<key>use_faulthandler</key>
+		<false/>
+		<key>use_pythonpath</key>
+		<false/>
+		<key>verbose</key>
+		<false/>
+	</dict>
+	<key>PyResourcePackages</key>
+	<array/>
+	<key>PyRuntimeLocations</key>
+	<array>
+		<string>@executable_path/../Frameworks/Python.framework/Versions/3.14/Python</string>
+	</array>
+	<key>PythonInfoDict</key>
+	<dict>
+		<key>PythonExecutable</key>
+		<string>/Users/aurelien/Downloads/files/app/venv/bin/python</string>
+		<key>PythonLongVersion</key>
+		<string>3.14.2 (v3.14.2:df793163d58, Dec  5 2025, 12:18:06) [Clang 16.0.0 (clang-1600.0.26.6)]</string>
+		<key>PythonShortVersion</key>
+		<string>3.1</string>
+		<key>py2app</key>
+		<dict>
+			<key>alias</key>
+			<false/>
+			<key>template</key>
+			<string>app</string>
+			<key>version</key>
+			<string>0.28.9</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
